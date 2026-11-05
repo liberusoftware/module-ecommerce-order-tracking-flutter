@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-order-tracking-flutter",
+  "capabilityKey": "planned:ecommerce:order-tracking",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_order_tracking_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/order-tracking.md",
+  "presentationPlan": "projects/ecommerce/flutter/order-tracking.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
